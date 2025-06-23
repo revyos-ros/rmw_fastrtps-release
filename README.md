@@ -1,3 +1,29 @@
+## rmw_fastrtps (jazzy) - 8.4.2-1
+
+The packages in the `rmw_fastrtps` repository were released into the `jazzy` distro by running `/root/venv/bin/bloom-release -r jazzy rmw_fastrtps --override-release-repository-push-url git@github.com:revyos-ros/rmw_fastrtps-release.git` on `Mon, 23 Jun 2025 06:02:43 -0000`
+
+These packages were released:
+- `rmw_fastrtps_cpp`
+- `rmw_fastrtps_dynamic_cpp`
+- `rmw_fastrtps_shared_cpp`
+
+Version of package(s) in repository `rmw_fastrtps`:
+
+- upstream repository: https://github.com/ros2/rmw_fastrtps.git
+- release repository: https://github.com/revyos-ros/rmw_fastrtps-release.git
+- rosdistro version: `8.4.2-1`
+- old version: `8.4.1-1`
+- new version: `8.4.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## rmw_fastrtps (humble) - 6.2.7-1
 
 The packages in the `rmw_fastrtps` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r humble rmw_fastrtps --override-release-repository-push-url git@github.com:revyos-ros/rmw_fastrtps-release.git` on `Mon, 23 Sep 2024 05:26:54 -0000`
